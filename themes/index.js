@@ -118,7 +118,15 @@ const themes = {
     icon_color: "2DDE98",
     text_color: "FFFFFF",
     bg_color: "050F2C",
+  }, 
+   "Hamzaoui": {
+    title_color: "41b883",
+    icon_color: "41b883",
+    text_color: "41b883",
+    bg_color: "151515",
   },
+  
+  
 };
 
 module.exports = themes;
